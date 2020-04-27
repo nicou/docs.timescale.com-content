@@ -472,11 +472,6 @@ const pageIndex = [
                 href: "continuous-aggs-tutorial",
                 children: []
             }, {
-                Title: "Setup TimescaleDB and Prometheus",
-                type: PAGE,
-                href: "tutorial-setup-timescale-prometheus",
-                children: []
-            }, {
                 Title: "Visualize Prometheus data in Grafana",
                 type: PAGE,
                 href: "tutorial-use-timescale-prometheus-grafana",
